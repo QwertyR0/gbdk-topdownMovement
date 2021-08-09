@@ -7,7 +7,7 @@ First Put Your Own gbdk path to
 PATH-HERE
 ```
 in **make.bat**
-then just use the command bellow
+then just use the command below
 ```
 ./make.bat ./main.c
 ```
