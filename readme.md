@@ -2,9 +2,11 @@
 its a very basic movement system with colissions and start menu(kinda...)
 
 ## to make:
-First Put Your Own gbdk path to```
+First Put Your Own gbdk path to
+```
 PATH-HERE
-``` in **make.bat**
+```
+in **make.bat**
 
 ```
 ./make.bat ./main.c
