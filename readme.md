@@ -12,7 +12,7 @@ then just use the command below
 ./make.bat ./main.c
 ```
 
-## conatact:
+## contact:
 **Discord:** Qwerty.R_Dev#9850
 
 Please report bugs!
