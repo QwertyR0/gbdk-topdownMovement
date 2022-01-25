@@ -16,3 +16,5 @@ then just use the command below
 **Discord:** Qwerty.R_Dev#9850
 
 Please report bugs!
+
+# Everyone can use this code in their game
