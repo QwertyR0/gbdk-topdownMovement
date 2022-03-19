@@ -4,15 +4,19 @@ its a very basic movement system with colissions and start menu(kinda...)
 *Screenshot of the game in [bgb emulator](https://bgb.bircd.org)*
 
 ## to make:
-First Put Your Own gbdk path to```
+First Put Your Own gbdk path to
+```
 PATH-HERE
-``` in **make.bat**
-
+```
+in **make.bat**
+then just use the command below
 ```
 ./make.bat ./main.c
 ```
 
-## conatact:
+## contact:
 **Discord:** Qwerty.R_Dev#9850
 
 Please report bugs!
+
+# Everyone can use this code in their game
