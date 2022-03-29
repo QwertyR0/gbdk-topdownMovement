@@ -18,5 +18,5 @@ then just use the command below
 **Discord:** Qwerty.R_Dev#9850
 
 Please report bugs!
-
+[![CodeFactor](https://www.codefactor.io/repository/github/qwertyr0/gbdk-topdownmovement/badge)](https://www.codefactor.io/repository/github/qwertyr0/gbdk-topdownmovement)
 # Everyone can use this code in their game
