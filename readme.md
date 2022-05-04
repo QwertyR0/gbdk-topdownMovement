@@ -1,5 +1,5 @@
 # Top Down Movement System For GBDK 2020
-[![CodeFactor](https://www.codefactor.io/repository/github/qwertyr0/gbdk-topdownmovement/badge)](https://www.codefactor.io/repository/github/qwertyr0/gbdk-topdownmovement)
+[![CodeFactor](https://www.codefactor.io/repository/github/QwertyR0/gbdk-topdownmovement/badge)](https://www.codefactor.io/repository/github/qwertyr0/gbdk-topdownmovement)
 ---
 its a very basic movement system with colissions and start menu(kinda...)
 ![Screenshot](https://raw.githubusercontent.com/QwertyR0/gbdk-topdownMovement/main/images/screenshot.png)
@@ -17,7 +17,7 @@ then just use the command below
 ```
 
 ## contact:
-**Discord:** Qwerty.R_Dev#9850
+**Discord:** Qwerty.R#9850
 
 Please report bugs!
 # Everyone can use this code in their game
